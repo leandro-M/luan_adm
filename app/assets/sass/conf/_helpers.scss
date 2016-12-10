@@ -1,0 +1,36 @@
+.pointer {cursor: pointer;}
+.both    {clear: both;}
+.primary {background-color: $corPrimary !important;}
+textarea {resize: none;}
+
+.img-max-height{
+	height: 100% !important;
+	max-height: 100% !important;
+	max-width: 100% !important;
+}
+
+.m-t-25 {
+	margin-top: 25px !important;
+}
+
+.table-responsive {
+	overflow-x: hidden;
+}
+
+#flashMessage{
+	text-align: center;
+	position: absolute;
+	top: 13%;
+	position: fixed;
+	z-index: 9999;
+	left: 50%;
+	transform: translate(-50%,0);
+}
+
+.cursor-p{
+	cursor: pointer;
+}
+
+.b-t-1{
+	border-top: 1px solid #eee;
+}

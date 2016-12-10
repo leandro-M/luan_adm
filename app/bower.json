@@ -1,0 +1,24 @@
+{
+  "name": "LuanAdm",
+  "authors": [
+    "LeandroMedeiros"
+  ],
+  "description": "administrativo do luan rodrigues",
+  "main": "",
+  "keywords": [
+    "adm"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    
+  }
+}
